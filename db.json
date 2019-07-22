@@ -17,6 +17,22 @@
       ]
     },
     {
+      "0": {
+        "id": "10",
+        "username": "macejkovic"
+      },
+      "1": {
+        "id": "4",
+        "username": "batz"
+      },
+      "2": {
+        "id": "6",
+        "username": "steuber"
+      },
+      "3": {
+        "id": "1",
+        "username": "pouros"
+      },
       "id": 2,
       "title": "Nemesis",
       "description": "The next high-octane thriller in the FBI series featuring Dillon Savich and Lacey Sherlock from # 1 New York Times–bestselling author Catherine Coulter. When Special Agent Lacey Sherlock foils a terrorist attack at JFK airport, she thinks her job is done and turns the reins over to the New York FBI. But stopping the grenade-carrying crazy was only the beginning. Another plot unfolds nearly simultaneously with a bomb at St. Patrick’s Cathedral. The terrorist at JFK refuses to speak to anyone but Sherlock. She heads back with counterterrorist Special Agent Cal McLain to try to get him to talk. Meanwhile, Savich—with the help of Agent Griffin Hammersmith—has his hands full trying to track an elusive murderer who looks like a Hollywood Dracula. When Dracula’s attempts to kill Savich collide with Sherlock’s terrorist case, very strange things happen. Who is really behind the bombing attack at St. Patrick’s? How does Savich’s mysterious killer fit into Sherlock’s terrorism investigation? Savich and Sherlock race against the clock, as more lives are in danger with every passing minute.",
@@ -37,6 +53,18 @@
       ]
     },
     {
+      "0": {
+        "id": "8",
+        "username": "goodwin"
+      },
+      "1": {
+        "id": "9",
+        "username": "nikolaus"
+      },
+      "2": {
+        "id": "1",
+        "username": "pouros"
+      },
       "id": 3,
       "title": "Urban Outlaws",
       "description": "Living life off the radar can be tough - as the Urban Outlaws are about to find out . . . Because no one's anonymous. No one's untraceable. No one's safe. The first in a sensational new series of high-octane, high-tech thrillers",
@@ -59,12 +87,16 @@
       "img_url": "http://books.google.com/books/content?id=S3yODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
+          "id": "10",
           "username": "macejkovic"
         },
         {
-          "id": 8,
+          "id": "8",
           "username": "goodwin"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
@@ -75,20 +107,36 @@
       "img_url": "http://books.google.com/books/content?id=bNYgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 10,
+          "id": "10",
           "username": "macejkovic"
         },
         {
-          "id": 4,
+          "id": "4",
           "username": "batz"
         },
         {
-          "id": 8,
+          "id": "8",
           "username": "goodwin"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
     {
+      "0": {
+        "id": "7",
+        "username": "steuber"
+      },
+      "1": {
+        "id": "4",
+        "username": "batz"
+      },
+      "2": {
+        "id": "1",
+        "username": "pouros"
+      },
       "id": 6,
       "title": "Whispers",
       "description": "When her father decides to run for governor of Oregon, Claire St. John is forced to confront long-buried secrets as she copes with unexpected feelings for Kane Moran, a handsome journalist with a grudge, who threatens to tell all.",
@@ -147,16 +195,28 @@
       "img_url": "http://books.google.com/books/content?id=hmbACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
+          "id": "8",
           "username": "goodwin"
         },
         {
-          "id": 6,
+          "id": "6",
           "username": "steuber"
         },
         {
-          "id": 5,
+          "id": "5",
           "username": "king"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
+        },
+        {
+          "id": "1",
+          "username": "pouros"
         }
       ]
     },
